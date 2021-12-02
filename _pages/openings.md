@@ -17,8 +17,7 @@ We are looking for passionate and self-motivated graduate students to do importa
 * Good programming skills in C/C++, Fortran, Python, or MATLAB. Experience in GPU or parallel computing is a plus.
 
 ### Postdoctoral Researchers
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
+Currently, we don't have direct funding for postdocs, but please don't hesitate to contact me. We are open to hearing from exceptional candidates and are happy to work with you to apply for external funding. Lists of postdoctoral fellowship opportunities can be found through the [NSF](https://efellows.asee.org/home), [National Academies websites](https://www.nationalacademies.org/opportunities), and [Harvard University](https://research.fas.harvard.edu/postdoc_opportunities).
 
 ### Undergraduate/Master projects for Binghamton University students
 If you are a Undergraduate/Master student at Binghamton University looking for a research project, contact me via email or stop by my office.
