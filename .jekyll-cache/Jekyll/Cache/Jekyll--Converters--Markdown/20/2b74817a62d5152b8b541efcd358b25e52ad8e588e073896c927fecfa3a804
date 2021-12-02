@@ -1,0 +1,21 @@
+I"�
+<h1 id="research">Research</h1>
+
+<p>Our overall research goal is to construct robust and comprehensive <strong>process-structure-property relationships</strong> to conduct systematic process and materials design for advanced manufacturing processes. To do so, we develop and integrate novel multiscale multiphysics simulation models and physics-informed machine learning models at different time- and length-scales.</p>
+
+<h3 id="multiscale-multiphysics-modeling-and-simulation">Multiscale Multiphysics Modeling and Simulation</h3>
+<p>Simulation becomes an important tool to enable us to understand rapid solidification in metal additive manufacturing given the limitations of experimental techniques for in-situ measurement. A mesoscale multiphysics simulation model, called phase-field and thermal lattice Boltzmann method was developed with simultaneous considerations of heterogeneous nucleation, solute transport, heat transfer, fluid dynamics, and phase transition. The simulation can reveal the complex dynamics of rapid solidification in the melt pool, such as the effects of latent heat and cooling rate on dendritic morphology and solute distribution.</p>
+
+<iframe width="300" height="300" src="http://localhost:4000/images/research/Flow.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe width="300" height="300" src="http://localhost:4000/images/research/Nucleation.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="physics-informed-machine-learning">Physics-Informed Machine Learning</h3>
+
+<h3 id="optimization-and-uncertainty-quantification">Optimization and Uncertainty Quantification</h3>
+
+<p><strong>Nanofabricated “Smart Tips”</strong>.
+<img src="http://localhost:4000/images/respic/SmartTip.png" alt="" style="width: 250px; float: left; margin: 0px  10px" />
+One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.</p>
+
+:ET
