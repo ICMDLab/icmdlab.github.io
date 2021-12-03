@@ -10,7 +10,7 @@ permalink: /team/
 
 # Principal Investigator
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/DehaoLiu.jpg){: style="width: 150px; float: left; margin: 0px  20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/DehaoLiu.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
 Dehao Liu, Ph.D. <br>
 Assistant Professor <br>
 Department of Mechanical Engineering <br>

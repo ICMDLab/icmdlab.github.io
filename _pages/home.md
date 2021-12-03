@@ -8,9 +8,9 @@ permalink: /
 
  **We are looking for self-motivated PhD students to join our team!** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings)
 
-### About Us
+## About ICMD Lab
 
-ICMD Lab is an interdisciplinary research lab in the [Department of Mechanical Engineering](https://www.binghamton.edu/mechanical-engineering/people/index.html) at the [State University of New York (SUNY) at Binghamton](https://binghamton.edu/). 
+ICMD Lab is an interdisciplinary research lab in the [Department of Mechanical Engineering](https://www.binghamton.edu/mechanical-engineering/index.html) at the [State University of New York (SUNY) at Binghamton](https://binghamton.edu/). 
 
 Our **research vision** is that the integration of physics-based and data-driven models will be indispensable for 
 systematic process and materials design for advanced manufacturing processes in the near future. 

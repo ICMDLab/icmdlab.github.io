@@ -11,8 +11,8 @@ For a full list of publications see below or go to [Google Scholar](https://scho
 ## Multiscale Multiphysics Modeling and Simulation
 **Liu D.** and Wang Y. (2020) [Multiphysics simulation of nucleation and grain growth in selective laser melting of alloys](https://asmedigitalcollection.asme.org/computingengineering/article/doi/10.1115/1.4046543/1075062/Multiphysics-Simulation-of-Nucleation-and-Grain). *Journal of Computing and Information Science in Engineering*, 20(5).[[Download PDF]]({{ site.url }}{{ site.baseurl }}/downloads/2020_JCISE.pdf)
 
-Sestito J.M., **Liu D.**, Lu Y., Song J.-H., Tran A.V., Kempner M.J., Harris T.A.L., Ahn S.-H., and Wang Y. (2019) Multiscale process modeling of shape memory alloy fabrication with directed energy deposition. Additive Manufacturing for Multifunctional Materials and
-Structures, eds. by H. Bruck, Y. Chen, and S.K. Gupta (in press). 
+Sestito J.M., **Liu D.**, Lu Y., Song J.-H., Tran A.V., Kempner M.J., Harris T.A.L., Ahn S.-H., and Wang Y. (2019) [Multiscale process modeling of shape memory alloy fabrication with directed energy deposition. Additive Manufacturing for Multifunctional Materials and
+Structures](https://www.worldscientific.com/doi/10.1142/9789811222825_0003), eds. by H. Bruck, Y. Chen, and S.K. Gupta. 
 
 Tran A.V., **Liu D.**, He L., and Wang Y. (2019) [Accelerating first-principle saddle point and local minimum search based on scalable Gaussian processes](https://www.sciencedirect.com/science/article/pii/B9780081029411000055). Uncertainty Quantification in Multiscale Materials Modeling, eds. by Y. Wang and D.L. McDowell (Elsevier), Ch.5, pp.119-168.
 
