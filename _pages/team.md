@@ -17,7 +17,7 @@ Department of Mechanical Engineering <br>
 State University of New York at Binghamton <br>
 Email: [dehaoliu@binghamton.edu](mailto:dehaoliu@binghamton.edu) <br>
 [Long Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/downloads/DehaoLiu_CV.pdf) <br>
-[Home page at ME](https://www.binghamton.edu/mechanical-engineering/people/index.html)
+[Department Profile](https://www.binghamton.edu/mechanical-engineering/people/profile.html?id=dehaoliu)
 
 ### Education & Empolyment
 * **Assistant Professor** (2022-present), Mechanical Engineering, SUNY Binghamton, US
