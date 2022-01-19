@@ -8,7 +8,7 @@ permalink: /openings
 
 # Open positions
 
-**Multiple Ph.D. positions with full financial support in the form of Research Assistant** is available in Integrated Computational Materials Design (ICMD) Lab in the Department of Mechanical Engineering at State University of New York (SUNY) at Binghamton, starting from Fall 2022. The position is open until filled. **Please note that the deadline for graduate student application for the Fall 2022 semester is February 1, 2022**. [See more details about the current openings and share them with interested students]({{ site.baseurl }}/downloads/ICMD_Lab_Openings.pdf)).
+**Multiple Ph.D. positions with full financial support in the form of Research Assistant** is available in Integrated Computational Materials Design (ICMD) Lab in the Department of Mechanical Engineering at State University of New York (SUNY) at Binghamton, starting from Fall 2022. The position is open until filled. [See more details about the current openings and share them with interested students]({{ site.baseurl }}/downloads/ICMD_Lab_Openings.pdf)).
 
 ## Graduate Students
 We are looking for **passionate and self-motivated** Ph.D. students to do important/revolutionary research work with the following qualifications.
