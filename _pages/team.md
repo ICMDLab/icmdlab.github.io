@@ -29,6 +29,7 @@ Email: [dehaoliu@binghamton.edu](mailto:dehaoliu@binghamton.edu) <br>
 * Multiscale Multiphysics Modeling and Simulation
 * Physics-Informed Machine Learning
 * Optimization and Uncertainty Quantification
+* Process monitoring and control
 
 ### Teaching
 * ME 417 - Intro to Finite Element Method
