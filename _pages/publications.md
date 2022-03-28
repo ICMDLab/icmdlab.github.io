@@ -9,6 +9,11 @@ permalink: /publications/
 For a full list of publications see below or go to [Google Scholar](https://scholar.google.com/citations?user=udTKihQAAAAJ&hl=en&oi=ao)
 
 ## Multiscale Multiphysics Modeling and Simulation
+
+Tran A., Sun J., **Liu D.**, Wildey T., and Wang Y. (2022). Stochastic reduced-order model with temporal upscaling for uncertainty propagation in materials modeling. *Journal of Computing and Information Science in Engineering* (accepted).
+
+Biswas, S., **Liu, D.**, & Jiang, W. (2022). [Solidification and grain formation in alloys: a 2D application of the grand-potential-based phase-field approach](https://iopscience.iop.org/article/10.1088/1361-651X/ac46dc/meta?casa_token=7oq86sN8aMsAAAAA:TgI1N5T7BtGCVNwnhuXUsyeoo4vjdW8JBmnl00pg-zj1TgxfgDBZsjw3iFrBQPBMCy_Xh46h57g_vQERFtA). *Modelling and Simulation in Materials Science and Engineering*, 30(2), 025013.
+
 **Liu D.** and Wang Y. (2020) [Multiphysics simulation of nucleation and grain growth in selective laser melting of alloys](https://asmedigitalcollection.asme.org/computingengineering/article/doi/10.1115/1.4046543/1075062/Multiphysics-Simulation-of-Nucleation-and-Grain). *Journal of Computing and Information Science in Engineering*, 20(5).[[Download PDF]]({{ site.url }}{{ site.baseurl }}/downloads/2020_JCISE.pdf)
 
 Sestito J.M., **Liu D.**, Lu Y., Song J.-H., Tran A.V., Kempner M.J., Harris T.A.L., Ahn S.-H., and Wang Y. (2019) [Multiscale process modeling of shape memory alloy fabrication with directed energy deposition. Additive Manufacturing for Multifunctional Materials and
@@ -36,6 +41,8 @@ Nie Z., Wang G., Yu J., **Liu D.**, & Rong Y. K. (2016). [Phase-based constituti
 **Liu D.**, Wang G., Nie Z., & Rong Y. K. [Numerical Simulation of the Austenitizing Process in Hypoeutectoid Fe-C Steels](https://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1913923). *Proceedings of the ASME 2014 International Manufacturing Science and Engineering Conference (MSEC2014), June 9-13, 2014, Detroit, Michigan,* Paper No. MSEC2014-3948. [[Download PDF]]({{ site.url }}{{ site.baseurl }}/downloads/2014_MSEC.pdf)
 
 ## Physics-Informed Machine Learning
+**Liu D.** and Wang Y. (2022). Metal additive manufacturing process design based on physics constrained neural networks and multi-objective Bayesian optimization. *Manufacturing Letter* (accepted).
+
 **Liu, D.**, and Wang, Y. (2021). [A Dual-Dimer method for training physics-constrained neural networks with minimax architecture](https://www.sciencedirect.com/science/article/pii/S0893608020304536?dgcid=coauthor). *Neural Networks*, 136: 112-125. [[Download PDF]]({{ site.url }}{{ site.baseurl }}/downloads/2021_NN.pdf)
 
 **Liu D.**, and Wang Y. (2019). [Multi-Fidelity Physics-Constrained Neural Network and Its Application in Materials Modeling](https://asmedigitalcollection.asme.org/mechanicaldesign/article/141/12/121403/956256/Multi-Fidelity-Physics-Constrained-Neural-Network). *Journal of Mechanical Design*, 141(12): 121403. [[Download PDF]]({{ site.url }}{{ site.baseurl }}/downloads/2019_JMD.pdf)
