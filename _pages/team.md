@@ -45,7 +45,6 @@ Research: Physics-informed machine learning <br>
 Email: [sli304@binghamton.edu](mailto:sli304@binghamton.edu)
 
 <br>
-<br>
 
 # Undergraduate Students
 
