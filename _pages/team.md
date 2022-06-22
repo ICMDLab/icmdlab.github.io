@@ -42,12 +42,15 @@ MS, University of Sheffield, United Kingdom <br>
 MS, University of Florida, United States <br>
 BS, Chongqing University, China <br>
 Research: Physics-informed machine learning <br>
-Email: [sli304@binghamton.edu](mailto:sli304@binghamton.edu) 
+Email: [sli304@binghamton.edu](mailto:sli304@binghamton.edu)
 
+<br>
+<br>
 
 # Undergraduate Students
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/MatthewOlson.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
 Matthew W Olson, Summer 2022- <br>
+Undergaduate student, Binghamton University, United States <br>
 Research: In-situ process monitoring for metal additive manufacturing <br>
 Email: [molson6@binghamton.edu](mailto:molson6@binghamton.edu ) 
