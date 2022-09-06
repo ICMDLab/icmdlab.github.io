@@ -34,7 +34,7 @@ Email: [dehaoliu@binghamton.edu](mailto:dehaoliu@binghamton.edu) <br>
 ### Teaching
 * ME 417 - Intro to Finite Element Method
 
-# PhD Students
+<!-- # PhD Students
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/SongyangLi.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
 Songyang Li, Fall 2022- <br>
@@ -44,7 +44,7 @@ BS, Chongqing University, China <br>
 Research: Physics-informed machine learning <br>
 Email: [sli304@binghamton.edu](mailto:sli304@binghamton.edu)
 
-<br>
+<br> -->
 
 # Undergraduate Students
 
