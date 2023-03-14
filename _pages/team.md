@@ -34,17 +34,16 @@ Email: [dehaoliu@binghamton.edu](mailto:dehaoliu@binghamton.edu) <br>
 ### Teaching
 * ME 417 - Intro to Finite Element Method
 
-<!-- # PhD Students
+# PhD Students
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/SongyangLi.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
-Songyang Li, Fall 2022- <br>
-MS, University of Sheffield, United Kingdom <br>
-MS, University of Florida, United States <br>
-BS, Chongqing University, China <br>
-Research: Physics-informed machine learning <br>
-Email: [sli304@binghamton.edu](mailto:sli304@binghamton.edu)
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/GuangfaLi.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
+Guangfa Li, Spring 2023- <br>
+MS, South China University of Technology, China <br>
+BS, Southwest Jiaotong University, China <br>
+Research: Physics-informed machine learning; In-situ process monitoring for metal additive manufacturing <br>
+Email: [gli12@binghamton.edu](mailto:gli12@binghamton.edu)
 
-<br> -->
+<br>
 
 # Undergraduate Students
 
