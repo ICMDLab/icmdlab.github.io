@@ -14,12 +14,12 @@ Our overall research goal is to construct robust and comprehensive **process-str
 Simulation becomes an important tool to enable us to understand rapid solidification in metal additive manufacturing given the limitations of experimental techniques for in-situ measurement. A mesoscale multiphysics simulation model, called **phase-field and thermal lattice Boltzmann method (PF-TLBM)** was developed with simultaneous considerations of heterogeneous nucleation, solute transport, heat transfer, fluid dynamics, and phase transition. The simulation can reveal the complex dynamics of rapid solidification in the melt pool, such as the effects of latent heat and cooling rate on dendritic morphology and solute distribution. 
 
 <table><tr>
-<td style="width:50%">
+<!-- <td style="width:50%">
 <iframe width="250" height="250"
 src="{{ site.url }}{{ site.baseurl }}/images/research/Flow.mp4" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe></td>
+allowfullscreen></iframe></td> -->
 <td style="width:50%">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/Ti64.jpg" height="250" />
 </td>
