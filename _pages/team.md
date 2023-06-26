@@ -6,7 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
+<!--
  **We are looking for self-motivated PhD students to join our team!** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings)
+ -->
 
 # Principal Investigator
 
@@ -33,6 +35,9 @@ Email: [dehaoliu@binghamton.edu](mailto:dehaoliu@binghamton.edu) <br>
 
 ### Teaching
 * ME 417 - Intro to Finite Element Method
+* ME 571 - Manufacturing Processes I 
+* ME 303 - Engineering Computational Method
+* ME 531X - Applied Machine Learning for ME
 
 # PhD Students
 
@@ -52,3 +57,9 @@ Matthew W Olson, Summer 2022- <br>
 Undergaduate student, Binghamton University, United States <br>
 Research: In-situ process monitoring for metal additive manufacturing <br>
 Email: [molson6@binghamton.edu](mailto:molson6@binghamton.edu ) 
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Kumar.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
+Anirudh Ramkumar Sivasankaran, Summer 2023- <br>
+Undergaduate student, Binghamton University, United States <br>
+Research: Design of optical enclosure <br>
+Email: [asivasa1@binghamton.edu](mailto:asivasa1@binghamton.edu )
