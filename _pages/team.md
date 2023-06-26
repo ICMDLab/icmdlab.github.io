@@ -59,6 +59,8 @@ Research: In-situ process monitoring for metal additive manufacturing <br>
 Email: [molson6@binghamton.edu](mailto:molson6@binghamton.edu ) 
 
 <br>
+<br>
+<br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Kumar.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
 Anirudh Ramkumar Sivasankaran, Summer 2023- <br>
